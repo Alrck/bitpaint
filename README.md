@@ -1,2 +1,2 @@
-# bitDraw
+# bitpaint
 G-api
